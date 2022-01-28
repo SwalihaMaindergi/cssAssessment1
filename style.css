@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+h2{
+    color: tomato;
+}
+li{
+    color: brown;
+}
+.test{
+    text-decoration-line: line-through;
+    font-weight: bold;
+}
+.test1{
+    background-color: yellow;
+    font-weight: bold;
+}
+.test2{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+p{
+    color: peru;
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
